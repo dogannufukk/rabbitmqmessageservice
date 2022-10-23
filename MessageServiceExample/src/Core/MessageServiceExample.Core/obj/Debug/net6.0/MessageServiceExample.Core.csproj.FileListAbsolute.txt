@@ -1,0 +1,12 @@
+C:\Users\PC\Desktop\GitRepo\rabbitmqmessageservice\MessageServiceExample\src\Core\MessageServiceExample.Core\bin\Debug\net6.0\MessageServiceExample.Core.deps.json
+C:\Users\PC\Desktop\GitRepo\rabbitmqmessageservice\MessageServiceExample\src\Core\MessageServiceExample.Core\bin\Debug\net6.0\MessageServiceExample.Core.dll
+C:\Users\PC\Desktop\GitRepo\rabbitmqmessageservice\MessageServiceExample\src\Core\MessageServiceExample.Core\bin\Debug\net6.0\MessageServiceExample.Core.pdb
+C:\Users\PC\Desktop\GitRepo\rabbitmqmessageservice\MessageServiceExample\src\Core\MessageServiceExample.Core\obj\Debug\net6.0\MessageServiceExample.Core.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\GitRepo\rabbitmqmessageservice\MessageServiceExample\src\Core\MessageServiceExample.Core\obj\Debug\net6.0\MessageServiceExample.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\GitRepo\rabbitmqmessageservice\MessageServiceExample\src\Core\MessageServiceExample.Core\obj\Debug\net6.0\MessageServiceExample.Core.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\GitRepo\rabbitmqmessageservice\MessageServiceExample\src\Core\MessageServiceExample.Core\obj\Debug\net6.0\MessageServiceExample.Core.AssemblyInfo.cs
+C:\Users\PC\Desktop\GitRepo\rabbitmqmessageservice\MessageServiceExample\src\Core\MessageServiceExample.Core\obj\Debug\net6.0\MessageServiceExample.Core.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\GitRepo\rabbitmqmessageservice\MessageServiceExample\src\Core\MessageServiceExample.Core\obj\Debug\net6.0\MessageServiceExample.Core.dll
+C:\Users\PC\Desktop\GitRepo\rabbitmqmessageservice\MessageServiceExample\src\Core\MessageServiceExample.Core\obj\Debug\net6.0\refint\MessageServiceExample.Core.dll
+C:\Users\PC\Desktop\GitRepo\rabbitmqmessageservice\MessageServiceExample\src\Core\MessageServiceExample.Core\obj\Debug\net6.0\MessageServiceExample.Core.pdb
+C:\Users\PC\Desktop\GitRepo\rabbitmqmessageservice\MessageServiceExample\src\Core\MessageServiceExample.Core\obj\Debug\net6.0\ref\MessageServiceExample.Core.dll

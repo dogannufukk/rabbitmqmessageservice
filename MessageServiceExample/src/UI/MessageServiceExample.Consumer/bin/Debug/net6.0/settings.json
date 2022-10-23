@@ -1,0 +1,14 @@
+{
+    "MailConfiguration": {
+        "Host": "",
+        "Port": "",
+        "User": "",
+        "Password": "",
+        "SSL": false
+    },
+    "RabbitMqConfig": {
+        "HostName": "localhost",
+        "UserName": "guest",
+        "Password": "guest"
+    }
+}
