@@ -1,4 +1,4 @@
-# Rabbit Mq Message Service
+# RabbitMQ Message Service
 
 Basit düzeyde bir RabbitMQ uygulamasıdır.
 
